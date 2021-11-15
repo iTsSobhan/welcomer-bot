@@ -1,8 +1,8 @@
 {
-"name": 'Your name',
-"version": '1٫0٫0',
-"description": 'My First Discord Bot',
+"name": "Your name",
+"version": "1٫0٫0",
+"description": "My First Discord Bot",
 "main": "index.js",
-"author": 'NAME',
+"author": "NAME",
 "dependencies": ""
 }
